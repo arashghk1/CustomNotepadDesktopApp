@@ -6,12 +6,12 @@ This is a custom notepad desktop application developed in C# and .NET Framework.
 # Features
 Some of the features included in this custom notepad application are:
 
-Text formatting options such as bold, italic, and underline
-Font selection and size options
-Text alignment options
-Bulleted and numbered lists
-Search and replace functionality
-Word count feature
+- Text formatting options such as bold, italic, and underline
+- Font selection and size options
+- Text alignment options
+- Bulleted and numbered lists
+- Search and replace functionality
+- Word count feature
 
 # Installation
 To install the application on your PC, follow these steps:
