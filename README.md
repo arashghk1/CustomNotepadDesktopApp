@@ -10,8 +10,10 @@ Some of the features included in this custom notepad application are:
 - Font selection and size options
 - Text alignment options
 - Bulleted and numbered lists
-- Search and replace functionality
 - Forecolor and backcolor manipulation
+- Search functionality
+- Print functionality
+
 
 # Installation
 To install the application on your PC, follow these steps:
