@@ -11,7 +11,7 @@ Some of the features included in this custom notepad application are:
 - Text alignment options
 - Bulleted and numbered lists
 - Search and replace functionality
-- Word count feature
+- Forecolor and backcolor manipulation
 
 # Installation
 To install the application on your PC, follow these steps:
