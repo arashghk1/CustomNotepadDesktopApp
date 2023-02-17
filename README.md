@@ -28,7 +28,7 @@ To use the custom notepad application, simply double-click the application icon 
 Contributions to the project are welcome. If you wish to contribute, please fork the repository and make your changes on a separate branch. Once you are done, create a pull request to have your changes reviewed and merged into the main codebase.
 
 # License
-This project is licensed under the MIT License. Please see the LICENSE file for more information.
+This project is licensed under the Apache License. Please see the LICENSE file for more information.
 
 # Contact
 If you have any questions or feedback about the custom notepad desktop application, please contact arashghk1@gmail.com.
