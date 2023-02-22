@@ -18,12 +18,11 @@ Some of the features included in this custom notepad application are:
 # Installation
 To install the application on your PC, follow these steps:
 
-1. Download the Notepad_Setup.rar folder from the Github repository: https://github.com/arashghk1/CustomNotepadDesktopApp
-2. Extract the contents of the zip folder to a location of your choice
-3. Run the setup file and follow the on-screen instructions to complete the installation
+- Download the Notepad_Setup.rar folder from the Github repository: https://github.com/arashghk1/CustomNotepadDesktopApp
+- Extract the contents of the zip folder to a location of your choice
+- Run the setup file and follow the on-screen instructions to complete the installation
 Usage
 To use the custom notepad application, simply double-click the application icon on your desktop or navigate to the installation folder and run the executable file.
-
 - To access the source code of the project download and extract the Notepad_Source_Code.rar folder from the Github repository: https://github.com/arashghk1/CustomNotepadDesktopApp
 
 # Contributing
