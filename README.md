@@ -1,4 +1,4 @@
-# CustomNotepadDesktopApp
+# Custom Notepad Desktop Application
 
 
 This is a custom notepad desktop application developed in C# and .NET Framework. The aim of this project is to provide a lightweight and fast alternative to Microsoft Word while also providing some extra features not available in the regular Windows notepad.
